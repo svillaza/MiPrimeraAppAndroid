@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MiFirstProject</string>
+    <string name="varBienv">Welcome</string>
+    <string name="varEnter">Enter</string>
+</resources>
